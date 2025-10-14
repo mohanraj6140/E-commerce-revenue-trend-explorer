@@ -25,7 +25,7 @@ Profit Margin: 14.94%
 
 **Why This Project is Useful**
 
-• This dashboard enables stakeholders to:
+This dashboard enables stakeholders to:
 • Monitor overall business performance at a glance.
 • Identify high-profit categories and underperforming regions.
 • Support strategic planning, marketing, and product distribution decisions.
