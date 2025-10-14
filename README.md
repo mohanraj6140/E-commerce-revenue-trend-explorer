@@ -29,3 +29,13 @@ This dashboard enables stakeholders to:
 • Monitor overall business performance at a glance.
 • Identify high-profit categories and underperforming regions.
 • Support strategic planning, marketing, and product distribution decisions.
+
+
+<img width="904" height="508" alt="image" src="https://github.com/user-attachments/assets/37db1967-6a57-40e7-a3e7-395cce46e058" />
+
+<img width="904" height="509" alt="image" src="https://github.com/user-attachments/assets/48c794e7-08e4-4a3e-b656-dce78347fed5" />
+
+
+
+
+
