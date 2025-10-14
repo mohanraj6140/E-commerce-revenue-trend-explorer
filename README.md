@@ -25,13 +25,16 @@ Profit Margin: 14.94%
 **Category & Product Insights:**
 
 • Breakdown of Sales and Profit by Category highlights best-selling items like Chairs, Phones, and Tables.
+
 • Top 10 Products ranked by profitability with visual performance comparison.
 
 **Why This Project is Useful**
 
 This dashboard enables stakeholders to:
 • Monitor overall business performance at a glance.
+
 • Identify high-profit categories and underperforming regions.
+
 • Support strategic planning, marketing, and product distribution decisions.
 
 
