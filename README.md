@@ -12,6 +12,7 @@ Profit Margin: 14.94%
 **Time-Based Trends:**
 
 • Monthly and Yearly performance visuals reveal sales growth patterns.
+
 • Seasonal spikes identified to assist in forecasting and inventory planning.
 
 **Geographic Insights:**
