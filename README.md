@@ -5,8 +5,11 @@ This interactive Power BI dashboard provides a comprehensive analysis of Sales, 
 
 Overall KPIs:
 Total Sales: 725.46K
+
 Total Profit: 108.42K
+
 Total Quantity: 12K
+
 Profit Margin: 14.94%
 
 **Time-Based Trends:**
